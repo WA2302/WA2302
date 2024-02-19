@@ -29,8 +29,6 @@ To use this workspace template, you should:
     git clone --recursive git@github.com:WA2302/STM32F4_Project_Template.git STM32F4_Workspace/Project && \
     git clone --recursive git@github.com:WA2302/STM32F4_Project_Template_MinOS.git STM32F4_Workspace/Project
 
-### Enjoy it.
-
 <!---
 WA2302/WA2302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
