@@ -16,18 +16,18 @@ To use this workspace template, you should:
 
 ### Workspace for STM32F0
     git clone --recursive git@github.com:WA2302/STM32F0_Workspace.git && \
-    git clone --recursive git@github.com:WA2302/STM32F0_Project_Template.git STM32F0_Workspace/Project && \
-    git clone --recursive git@github.com:WA2302/STM32F0_Project_Template_MinOS.git STM32F0_Workspace/Project
+    git clone --recursive git@github.com:WA2302/STM32F0_Project_Template.git STM32F0_Workspace/Project/STM32F0_Project_Template && \
+    git clone --recursive git@github.com:WA2302/STM32F0_Project_Template_MinOS.git STM32F0_Workspace/Project/STM32F0_Project_Template_MinOS
 
 ### Workspace for STM32F1
     git clone --recursive git@github.com:WA2302/STM32F1_Workspace.git && \
-    git clone --recursive git@github.com:WA2302/STM32F1_Project_Template.git STM32F1_Workspace/Project && \
-    git clone --recursive git@github.com:WA2302/STM32F1_Project_Template_MinOS.git STM32F1_Workspace/Project
+    git clone --recursive git@github.com:WA2302/STM32F1_Project_Template.git STM32F1_Workspace/Project/STM32F1_Project_Template && \
+    git clone --recursive git@github.com:WA2302/STM32F1_Project_Template_MinOS.git STM32F1_Workspace/Project/STM32F1_Project_Template_MinOS
 
 ### Workspace for STM32F4
     git clone --recursive git@github.com:WA2302/STM32F4_Workspace.git && \
-    git clone --recursive git@github.com:WA2302/STM32F4_Project_Template.git STM32F4_Workspace/Project && \
-    git clone --recursive git@github.com:WA2302/STM32F4_Project_Template_MinOS.git STM32F4_Workspace/Project
+    git clone --recursive git@github.com:WA2302/STM32F4_Project_Template.git STM32F4_Workspace/Project/STM32F4_Project_Template && \
+    git clone --recursive git@github.com:WA2302/STM32F4_Project_Template_MinOS.git STM32F4_Workspace/Project/STM32F4_Project_Template_MinOS
 
 <!---
 WA2302/WA2302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
